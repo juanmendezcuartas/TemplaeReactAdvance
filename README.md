@@ -17,9 +17,8 @@ If you want customize the folder name template_react_advanced:
 
 Modules installed:
 
-- React
-- Babel
-- Webpack
-- JSX
-- SASS
-- ESLint
+- React (react, react-dom)
+- Babel (@babel/core, babel-loader, @babel/preset-env, @babel/preset-react)
+- Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server, file-loader)
+- SASS (mini-css-extract-plugin, css-loader, node-sass, sass-loader)
+- ESLint (eslint, babel-eslint, eslint-config-airbnb, eslint-plugin-import, eslint-plugin-react, eslint-plugin-jsx-a11y)

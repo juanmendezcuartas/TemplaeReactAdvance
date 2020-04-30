@@ -1,8 +1,8 @@
 ## For run and check the server:
 
 1. Clone repo.
-2. Move to template_react_advanced folder (cd template_react_advanced).
-3. Start server `npm run start`.
+2. Move to template_react_advanced folder (`cd template_react_advanced`).
+3. Start server (`npm run start`).
 4. If opened a page with "Hola Mundo" all its **OK.
 
 ## If you want customize the folder name template_react_advanced:
@@ -12,12 +12,11 @@
 3. Open folder (my_new_project_name) in text editor like VSCode.
 4. Open file package.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
 5. Open file package-lock.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
-6. That' all, open terminal and write: npm run start
-7. If you want compile the code: -npm run build -the compile files are located in 'dist'
+6. That' all, open terminal and write: `npm run start`
 
 ## If you want compile the code:
-1. npm run build
-2. the compile files are located in 'dist'
+1. `npm run build`
+2. The compiled files are located in 'dist'
 
 ## Modules installed:
 

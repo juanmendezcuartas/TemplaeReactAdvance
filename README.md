@@ -12,16 +12,16 @@
 3. Open folder (my_new_project_name) in text editor like VSCode.
 4. Open file package.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
 5. Open file package-lock.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
-6. That' all, open terminal and write: `npm run start`
+6. That' all, open terminal and write: `npm run start` .
 
 ## If you want compile the code:
-1. `npm run build`
-2. The compiled files are located in 'dist'
+1. `npm run build` .
+2. The compiled files are located in 'dist'.
 
 ## Modules installed:
 
-- React (react, react-dom)
-- Babel (@babel/core, babel-loader, @babel/preset-env, @babel/preset-react)
-- Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server, file-loader)
-- SASS (mini-css-extract-plugin, css-loader, node-sass, sass-loader)
-- ESLint (eslint, babel-eslint, eslint-config-airbnb, eslint-plugin-import, eslint-plugin-react, eslint-plugin-jsx-a11y)
+- React (react, react-dom).
+- Babel (@babel/core, babel-loader, @babel/preset-env, @babel/preset-react).
+- Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server, file-loader).
+- SASS (mini-css-extract-plugin, css-loader, node-sass, sass-loader).
+- ESLint (eslint, babel-eslint, eslint-config-airbnb, eslint-plugin-import, eslint-plugin-react, eslint-plugin-jsx-a11y).

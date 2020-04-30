@@ -15,6 +15,7 @@
 6. That' all, open terminal and write: `npm run start`.
 
 ## If you want compile the code:
+
 1. `npm run build`.
 2. The compiled files are located in 'dist'.
 
@@ -25,3 +26,5 @@
 - Webpack (webpack, webpack-cli, html-webpack-plugin, html-loader, webpack-dev-server, file-loader).
 - SASS (mini-css-extract-plugin, css-loader, node-sass, sass-loader).
 - ESLint (eslint, babel-eslint, eslint-config-airbnb, eslint-plugin-import, eslint-plugin-react, eslint-plugin-jsx-a11y).
+- JSON server.
+- Prop types.

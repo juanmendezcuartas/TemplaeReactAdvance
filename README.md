@@ -1,11 +1,11 @@
-For run and check the server:
+##For run and check the server:
 
 - Clone repo.
 - Move to template_react_advanced folder (cd template_react_advanced).
 - Start server (npm run start).
 - If opened a page with "Hola Mundo" all its "OK".
 
-If you want customize the folder name template_react_advanced:
+##If you want customize the folder name template_react_advanced:
 
 - Change folder called template_react_advanced to one you want (example: my_new_project_name).
 - If you see the console in red is normal xD, so let's fix it.
@@ -15,7 +15,7 @@ If you want customize the folder name template_react_advanced:
 - That' all, open terminal and write: npm run start
 - If you want compile the code: -npm run build -the compile files are located in 'dist'
 
-Modules installed:
+##Modules installed:
 
 - React (react, react-dom)
 - Babel (@babel/core, babel-loader, @babel/preset-env, @babel/preset-react)

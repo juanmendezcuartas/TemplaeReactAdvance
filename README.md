@@ -12,10 +12,10 @@
 3. Open folder (my_new_project_name) in text editor like VSCode.
 4. Open file package.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
 5. Open file package-lock.jason and change "name":"template_react_advanced" for "name":"my_new_project_name" and save.
-6. That' all, open terminal and write: `npm run start` .
+6. That' all, open terminal and write: `npm run start`.
 
 ## If you want compile the code:
-1. `npm run build` .
+1. `npm run build`.
 2. The compiled files are located in 'dist'.
 
 ## Modules installed:

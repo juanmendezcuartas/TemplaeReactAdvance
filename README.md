@@ -15,6 +15,10 @@
 6. That' all, open terminal and write: npm run start
 7. If you want compile the code: -npm run build -the compile files are located in 'dist'
 
+# If you want compile the code:
+1. npm run build
+2. the compile files are located in 'dist'
+
 ## Modules installed:
 
 - React (react, react-dom)

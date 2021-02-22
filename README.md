@@ -2,8 +2,9 @@
 
 1. Clone repo.
 2. Move to template_react_advanced folder with `cd template_react_advanced`.
-3. Start server with `npm run start`.
-4. If opened a page with "Hola Mundo" all its **OK**.
+3. Install package with `npm init`
+4. Start server with `npm run start`.
+5. If opened a page with "Hola Mundo" all its **OK**.
 
 ## If you want customize the folder name template_react_advanced:
 
